@@ -1,3 +1,3 @@
 fun a(){
-    println("A function")
+    println("Smak's function is working")
 }
